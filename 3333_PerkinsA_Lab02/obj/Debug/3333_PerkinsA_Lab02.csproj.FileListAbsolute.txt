@@ -1,0 +1,10 @@
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\bin\Debug\3333_PerkinsA_Lab02.exe.config
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\bin\Debug\3333_PerkinsA_Lab02.exe
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\bin\Debug\3333_PerkinsA_Lab02.pdb
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\3333_PerkinsA_Lab02.csprojAssemblyReference.cache
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\_3333_PerkinsA_Lab02.Form1.resources
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\_3333_PerkinsA_Lab02.Properties.Resources.resources
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\3333_PerkinsA_Lab02.csproj.GenerateResource.cache
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\3333_PerkinsA_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\3333_PerkinsA_Lab02.exe
+C:\Users\amber\source\repos\3333_PerkinsA_Lab02\3333_PerkinsA_Lab02\obj\Debug\3333_PerkinsA_Lab02.pdb
